@@ -9,5 +9,5 @@ doskey ps      = tasklist $*
 doskey pwd     = cd
 doskey rm      = del $*
 doskey rmr     = deltree $*
-doskey cd~ = cd C:\Users\jean.wei
+doskey cd~ = cd C:\Users\
 cls
